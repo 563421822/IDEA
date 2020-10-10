@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e4701ed8-bc71-4157-8db9-66518eb78c1d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fAMtoa5ZRBKLQBdZ1fcpix0gl7" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\WANG\IdeaProjects\untitled4\src\main\java\com\wyl\zy\utils" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Game" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wyl.zy.view.Game" />
+      <module name="untitled4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wyl.zy.view.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Game" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e4701ed8-bc71-4157-8db9-66518eb78c1d" name="Default Changelist" comment="" />
+      <created>1595656660196</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595656660196</updated>
+      <workItem from="1595656663457" duration="13175000" />
+      <workItem from="1595670057779" duration="63000" />
+      <workItem from="1595670242566" duration="11000" />
+      <workItem from="1595674853993" duration="6000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="535" y="213" key="#com.intellij.ide.util.MemberChooser" timestamp="1595662711263">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="535" y="213" key="#com.intellij.ide.util.MemberChooser/0.0.1440.860@0.0.1440.860" timestamp="1595662711263" />
+    <state x="429" y="521" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1595657353533">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="429" y="521" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1440.860@0.0.1440.860" timestamp="1595657353533" />
+    <state x="474" y="296" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1595668453264">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="474" y="296" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1440.860@0.0.1440.860" timestamp="1595668453264" />
+    <state x="500" y="155" key="FileChooserDialogImpl" timestamp="1595670101417">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="500" y="155" key="FileChooserDialogImpl/0.0.1440.860@0.0.1440.860" timestamp="1595670101417" />
+    <state width="1396" height="270" key="GridCell.Tab.0.bottom" timestamp="1595670029081">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1396" height="270" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1595670029081" />
+    <state width="1396" height="270" key="GridCell.Tab.0.center" timestamp="1595670029081">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1396" height="270" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1595670029081" />
+    <state width="1396" height="270" key="GridCell.Tab.0.left" timestamp="1595670029081">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1396" height="270" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1595670029081" />
+    <state width="1396" height="270" key="GridCell.Tab.0.right" timestamp="1595670029081">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1396" height="270" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1595670029081" />
+    <state width="1396" height="270" key="GridCell.Tab.1.bottom" timestamp="1595670029081">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1396" height="270" key="GridCell.Tab.1.bottom/0.0.1440.860@0.0.1440.860" timestamp="1595670029081" />
+    <state width="1396" height="270" key="GridCell.Tab.1.center" timestamp="1595670029081">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1396" height="270" key="GridCell.Tab.1.center/0.0.1440.860@0.0.1440.860" timestamp="1595670029081" />
+    <state width="1396" height="270" key="GridCell.Tab.1.left" timestamp="1595670029081">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1396" height="270" key="GridCell.Tab.1.left/0.0.1440.860@0.0.1440.860" timestamp="1595670029081" />
+    <state width="1396" height="270" key="GridCell.Tab.1.right" timestamp="1595670029081">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1396" height="270" key="GridCell.Tab.1.right/0.0.1440.860@0.0.1440.860" timestamp="1595670029081" />
+    <state x="221" y="7" key="SettingsEditor" timestamp="1595666354177">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="221" y="7" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1595666354177" />
+    <state x="170" y="269" width="1240" height="660" key="dock-window-1" timestamp="1595657504762">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="170" y="269" width="1240" height="660" key="dock-window-1/0.0.1440.860@0.0.1440.860" timestamp="1595657504762" />
+    <state x="457" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1595660605104">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="457" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1440.860@0.0.1440.860" timestamp="1595660605104" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/wyl/zy/dao/impl/GameDaoImpl.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
